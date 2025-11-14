@@ -17,7 +17,7 @@ Detailed notes are organized by week inside this folder.
 
 As new weeks are added, they will be linked here.
 
-* [Week 1](week_1.md)
+* [Week 1](week_model.md)
 * Week 2 (coming soon)
 * Week 3 (coming soon)
 * Week 4 (coming soon)
