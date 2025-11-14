@@ -112,6 +112,6 @@ A short summary of what stood out this week.
 
 # 📂 Navigation
 
-* [Back to main summary](summary.md)
+* [Back to main summary](summary_model.md)
 
 ---
