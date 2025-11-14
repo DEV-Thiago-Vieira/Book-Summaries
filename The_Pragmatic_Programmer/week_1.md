@@ -29,55 +29,89 @@ There is so much material introduced so quickly that I struggle to absorb or rel
 
 To make good use of the content, it’s necessary to reread and reflect deeply on the lines; otherwise, the ideas risk being forgotten. But since this is only the first chapter, I hope these concepts will be explored more thoroughly later on.
 
-
- 
 ---
 
 ## 📅 Day 2 — *Title Goes Here*
 
 **Time:** X minutes
-**Description:**
-A brief note about what you read, the main idea, or a takeaway.
+
+### Description
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in mi pretium, eleifend est sed, egestas orci. Nam cursus arcu ac dictum ultricies. Cras nec venenatis orci. Aenean ex mauris, interdum ut leo eu, rutrum condimentum elit. Curabitur consectetur lobortis dolor, sit amet ultricies nibh dapibus molestie. 
+
+### Reflections
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in mi pretium, eleifend est sed, egestas orci. Nam cursus arcu ac dictum ultricies. Cras nec venenatis orci. Aenean ex mauris, interdum ut leo eu, rutrum condimentum elit. Curabitur consectetur lobortis dolor, sit amet ultricies nibh dapibus molestie. 
 
 ---
 
 ## 📅 Day 3 — *Title Goes Here*
 
 **Time:** X minutes
-**Description:**
-A brief note about what you read, the main idea, or a takeaway.
+
+### Description
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in mi pretium, eleifend est sed, egestas orci. Nam cursus arcu ac dictum ultricies. Cras nec venenatis orci. Aenean ex mauris, interdum ut leo eu, rutrum condimentum elit. Curabitur consectetur lobortis dolor, sit amet ultricies nibh dapibus molestie. 
+
+### Reflections
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in mi pretium, eleifend est sed, egestas orci. Nam cursus arcu ac dictum ultricies. Cras nec venenatis orci. Aenean ex mauris, interdum ut leo eu, rutrum condimentum elit. Curabitur consectetur lobortis dolor, sit amet ultricies nibh dapibus molestie. 
 
 ---
 
 ## 📅 Day 4 — *Title Goes Here*
 
 **Time:** X minutes
-**Description:**
-A brief note about what you read, the main idea, or a takeaway.
+
+### Description
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in mi pretium, eleifend est sed, egestas orci. Nam cursus arcu ac dictum ultricies. Cras nec venenatis orci. Aenean ex mauris, interdum ut leo eu, rutrum condimentum elit. Curabitur consectetur lobortis dolor, sit amet ultricies nibh dapibus molestie. 
+
+### Reflections
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in mi pretium, eleifend est sed, egestas orci. Nam cursus arcu ac dictum ultricies. Cras nec venenatis orci. Aenean ex mauris, interdum ut leo eu, rutrum condimentum elit. Curabitur consectetur lobortis dolor, sit amet ultricies nibh dapibus molestie. 
 
 ---
 
 ## 📅 Day 5 — *Title Goes Here*
 
 **Time:** X minutes
-**Description:**
-A brief note about what you read, the main idea, or a takeaway.
+
+### Description
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in mi pretium, eleifend est sed, egestas orci. Nam cursus arcu ac dictum ultricies. Cras nec venenatis orci. Aenean ex mauris, interdum ut leo eu, rutrum condimentum elit. Curabitur consectetur lobortis dolor, sit amet ultricies nibh dapibus molestie. 
+
+### Reflections
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in mi pretium, eleifend est sed, egestas orci. Nam cursus arcu ac dictum ultricies. Cras nec venenatis orci. Aenean ex mauris, interdum ut leo eu, rutrum condimentum elit. Curabitur consectetur lobortis dolor, sit amet ultricies nibh dapibus molestie. 
 
 ---
 
 ## 📅 Day 6 — *Title Goes Here*
 
 **Time:** X minutes
-**Description:**
-A brief note about what you read, the main idea, or a takeaway.
+
+### Description
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in mi pretium, eleifend est sed, egestas orci. Nam cursus arcu ac dictum ultricies. Cras nec venenatis orci. Aenean ex mauris, interdum ut leo eu, rutrum condimentum elit. Curabitur consectetur lobortis dolor, sit amet ultricies nibh dapibus molestie. 
+
+### Reflections
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in mi pretium, eleifend est sed, egestas orci. Nam cursus arcu ac dictum ultricies. Cras nec venenatis orci. Aenean ex mauris, interdum ut leo eu, rutrum condimentum elit. Curabitur consectetur lobortis dolor, sit amet ultricies nibh dapibus molestie. 
 
 ---
 
 ## 📅 Day 7 — *Title Goes Here*
 
 **Time:** X minutes
-**Description:**
-A brief note about what you read, the main idea, or a takeaway.
+
+### Description
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in mi pretium, eleifend est sed, egestas orci. Nam cursus arcu ac dictum ultricies. Cras nec venenatis orci. Aenean ex mauris, interdum ut leo eu, rutrum condimentum elit. Curabitur consectetur lobortis dolor, sit amet ultricies nibh dapibus molestie. 
+
+### Reflections
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in mi pretium, eleifend est sed, egestas orci. Nam cursus arcu ac dictum ultricies. Cras nec venenatis orci. Aenean ex mauris, interdum ut leo eu, rutrum condimentum elit. Curabitur consectetur lobortis dolor, sit amet ultricies nibh dapibus molestie. 
 
 ---
 
