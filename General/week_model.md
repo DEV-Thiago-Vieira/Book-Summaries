@@ -17,6 +17,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in mi pretium, el
 ### Reflections
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in mi pretium, eleifend est sed, egestas orci. Nam cursus arcu ac dictum ultricies. Cras nec venenatis orci. Aenean ex mauris, interdum ut leo eu, rutrum condimentum elit. Curabitur consectetur lobortis dolor, sit amet ultricies nibh dapibus molestie. 
+
 ---
 
 ## 📅 Day 2 — *Title Goes Here*
