@@ -10,7 +10,7 @@ This repository collects short daily notes based on my reading. Each entry captu
 
 [**Go to notes →**](The_Pragmatic_Programmer/summary.md)
 
-<img src="https://m.media-amazon.com/images/I/71f1jieYHNL._AC_UF1000,1000_QL80_.jpg" width="150"/>
+[<img src="https://m.media-amazon.com/images/I/71f1jieYHNL._AC_UF1000,1000_QL80_.jpg" width="150"/>](The_Pragmatic_Programmer/summary.md)
 
 ---
 
