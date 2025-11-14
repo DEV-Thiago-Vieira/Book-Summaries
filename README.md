@@ -17,7 +17,6 @@ This repository collects short daily notes based on my reading. Each entry captu
 ## 📚 Books Planned for Reading
 
 Below is a compact horizontal list of the next books on my reading queue.
-Each cover is resized to keep everything clean and visually organized.
 
 ### **Covers**
 
