@@ -44,13 +44,6 @@ As new weeks are added, they will be linked here.
 
 ---
 
-## 🔍 What This Book Is About.
-
-A practical and foundational guide to software craftsmanship.  
-It encourages responsibility, adaptability, and a thoughtful approach to the tools and habits used in everyday development.
-
----
-
 # 📂 Navigation
 
 * [Back to the README.md](../README.md)
