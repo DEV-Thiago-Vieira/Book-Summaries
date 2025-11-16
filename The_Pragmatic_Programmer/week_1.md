@@ -39,17 +39,17 @@ To make good use of the content, it’s necessary to reread and reflect deeply o
 
 ### Description
 
-A team is based on trust, you need to be trustworthy and the same for your teamates for a project to work properly. When one of the parts are rotten, the project can't work properly causing delays and revisions.
+A team is based on trust, you need to be trustworthy and the same for your teamates for a project to work properly. When one of the parts is rotten, the project can't work properly, causing delays and revisions.
 
-As a pragmatic programmer you need to take responsability for what you do and you can also say if you want or not take responsability for something based on your own values.
+As a pragmatic programmer, you need to take responsibility for what you do, and you can also say if you want to or not take responsibility for something based on your own values.
 
-**Don't blame others** and **don't offer excuses**. If you want to give an excuse give it to yourself and try to see if they make sense. At some point you will reach a solution or possible solutions. Your work is to offer solutions to your client/boss/teamates.
+**Don't blame others** and **don't offer excuses**. If you want to give an excuse, give it to yourself and try to see if it makes sense. At some point, you will reach a solution or possible solutions. Your work is to offer solutions to your client/boss/teammates.
 
-If the problem is you say you don't know honestly, but also be honest enough to say you will learn about it. This proactiveness it's the best pro move possible.
+If the problem is that you say you don't know, honestly, but also be honest enough to say you will learn about it. This proactiveness it's the best professional possible move.
 
 ### Reflections
 
-I really liked today's part. The content is still very dense and need to be read carefully, but they held some good values. The last two advices of being honest and be a solution-based person is very good and also logical. I'll try to apply them as soon as possible.
+I really liked today's part. The content is still very dense and needs to be read carefully, but it holds some good values. The last two pieces of advice, being honest and being a solution-based person, are very good and also logical. I'll try to apply them as soon as possible.
 
 ---
 
