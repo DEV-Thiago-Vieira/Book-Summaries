@@ -55,15 +55,17 @@ I really liked today's part. The content is still very dense and needs to be rea
 
 ## 📅 Day 3 — _Title Goes Here_
 
-**Time:** X minutes
+**Time:** 10 minutes
 
 ### Description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in mi pretium, eleifend est sed, egestas orci. Nam cursus arcu ac dictum ultricies. Cras nec venenatis orci. Aenean ex mauris, interdum ut leo eu, rutrum condimentum elit. Curabitur consectetur lobortis dolor, sit amet ultricies nibh dapibus molestie.
+The topic explored here is technical debt, which, being short, shouldn't exist. The author suggests that if a problem arises, it should be resolved immediately, even if it needs to be considered as part of your ongoing activity. Those debts will never be paid in the future; they will remain there forever and rot your project little by little. The author uses the example of a broken window. If you walk into a place with a broken window, people will start to care less because they feel it was neglected. However, if a place is well-maintained, they will be more careful to add each piece of code correctly.
+
+The author encourages you to take care of the broken windows of your project.
 
 ### Reflections
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in mi pretium, eleifend est sed, egestas orci. Nam cursus arcu ac dictum ultricies. Cras nec venenatis orci. Aenean ex mauris, interdum ut leo eu, rutrum condimentum elit. Curabitur consectetur lobortis dolor, sit amet ultricies nibh dapibus molestie.
+I couldn't read much because of personal circumstances, but I like it at the same time. I think it is controversial because there are circumstances where this could do more harm than good in the scope of a project. Mainly in the ones you simply don't have time for, and where there aren't any unit or integration tests to make sure everything is working properly in the case of changes.
 
 ---
 
