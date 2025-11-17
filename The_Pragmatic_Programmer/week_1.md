@@ -53,15 +53,19 @@ I really liked today's part. The content is still very dense and needs to be rea
 
 ---
 
-## 📅 Day 3 — _Title Goes Here_
+## 📅 Day 3 — _Software and debts_
 
 **Time:** 10 minutes
 
 ### Description
 
-The topic explored here is technical debt, which, being short, shouldn't exist. The author suggests that if a problem arises, it should be resolved immediately, even if it needs to be considered as part of your ongoing activity. Those debts will never be paid in the future; they will remain there forever and rot your project little by little. The author uses the example of a broken window. If you walk into a place with a broken window, people will start to care less because they feel it was neglected. However, if a place is well-maintained, they will be more careful to add each piece of code correctly.
+Here is the revised version without using that punctuation mark:
 
-The author encourages you to take care of the broken windows of your project.
+The topic here is technical debt, something that ideally should not accumulate at all. The author argues that when a problem appears, it should be addressed right away, even if it means handling it alongside your current work. If you leave these issues unresolved, they will remain in place and slowly erode the quality of the project.
+
+To illustrate this, the author uses the broken window metaphor. When people enter a place with a broken window, they tend to care less because neglect is already visible. In contrast, a well-kept environment encourages people to treat it with respect and add their code carefully.
+
+The message is simple. Take care of your project’s broken windows before they spread and cause deeper decay.
 
 ### Reflections
 
@@ -69,17 +73,25 @@ I couldn't read much because of personal circumstances, but I like it at the sam
 
 ---
 
-## 📅 Day 4 — _Title Goes Here_
+## 📅 Day 4 — _Be the change_
 
-**Time:** X minutes
+**Time:** 15 minutes
 
 ### Description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in mi pretium, eleifend est sed, egestas orci. Nam cursus arcu ac dictum ultricies. Cras nec venenatis orci. Aenean ex mauris, interdum ut leo eu, rutrum condimentum elit. Curabitur consectetur lobortis dolor, sit amet ultricies nibh dapibus molestie.
+Today’s material can be divided into two themes: be a force for change in your project and make software good enough.
+
+The author indirectly addresses overengineering by explaining that software should be good enough for the problem at hand. Delivering an MVP, a Minimal Viable Product, is usually more valuable than aiming for a perfect solution. A perfect project takes too long, and by the time it is finished the needs of the client will likely have changed.
+
+When discussing being a force for change, the author introduces a helpful story. Three soldiers return from war, hungry, and arrive in a village where no one is willing to share food. The men fill a pot with water and add a few stones. Curious villagers come closer and ask what they are making. The soldiers say they are cooking stone soup, but mention that it might taste better with some carrots. A villager brings carrots. Then they suggest potatoes could add a different flavor, and someone else brings potatoes. Each time a new villager approaches with curiosity, another ingredient is added.
+
+In the end, the pot holds a real soup filled with ingredients, and the stones are no longer important. The soldiers turned a simple idea into something richer through small suggestions.
+
+This applies to software as well. Instead of demanding big changes, you guide others gently by proposing small improvements. You say things like this might be good with some refactoring or this part could work better with a clearer structure, and step by step, the project grows into something stronger.
 
 ### Reflections
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in mi pretium, eleifend est sed, egestas orci. Nam cursus arcu ac dictum ultricies. Cras nec venenatis orci. Aenean ex mauris, interdum ut leo eu, rutrum condimentum elit. Curabitur consectetur lobortis dolor, sit amet ultricies nibh dapibus molestie.
+I have to admit that even though the story about the soldiers was helpful, the concepts still feel dense, and I might end up forgetting most of what I read in this first chapter. I feel some pressure to remember everything, but the ideas do not seem very practical yet. I think that when I finish the book, I will probably have to read it again and create my own exercises so I can actually apply the principles in a useful way.
 
 ---
 
