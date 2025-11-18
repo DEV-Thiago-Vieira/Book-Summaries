@@ -95,17 +95,30 @@ I have to admit that even though the story about the soldiers was helpful, the c
 
 ---
 
-## 📅 Day 5 — _Title Goes Here_
+## 📅 Day 5 — _Practical habits_
 
-**Time:** X minutes
+**Time:** ~10 minutes
 
 ### Description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in mi pretium, eleifend est sed, egestas orci. Nam cursus arcu ac dictum ultricies. Cras nec venenatis orci. Aenean ex mauris, interdum ut leo eu, rutrum condimentum elit. Curabitur consectetur lobortis dolor, sit amet ultricies nibh dapibus molestie.
+Programming is like investing. Serious investors develop habits that sustain their actions: they diversify, balance low- and high-risk assets, and regularly monitor their finances. The author encourages you to invest in your knowledge with the same consistency.
+
+The next part is my favorite because the author turns this idea into practical steps:
+
+* Learn a new language every year. Even if you never use some of them professionally, each one offers insights you wouldn’t gain otherwise.
+* Read a technical book every month. Many people never study their field deeply, relying on shallow posts or quick courses; you need depth to grow.
+* Read non-technical books as well. Communication matters, and strong soft skills make a difference.
+* Take classes regularly. A course or a college program can help.
+* Join local user groups and meetups, and participate actively. An online community, such as a Discord server, can also be valuable.
+* Experiment with different environments. If you’ve only worked with Windows, try Linux. Try a new IDE, a new language, or a new way of solving familiar problems.
+* Stay current. Follow news and posts covering technologies from different areas and people’s experiences.
+
+The goal isn’t to accumulate trophies but to build an environment where you are truly immersed. You want a mind capable of tackling all kinds of problems, gaining insights even when you’re exploring something new. Lifelong learning leads to meaningful knowledge and long-term rewards.
+
 
 ### Reflections
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in mi pretium, eleifend est sed, egestas orci. Nam cursus arcu ac dictum ultricies. Cras nec venenatis orci. Aenean ex mauris, interdum ut leo eu, rutrum condimentum elit. Curabitur consectetur lobortis dolor, sit amet ultricies nibh dapibus molestie.
+This is by far my favorite part of the book. The author lays out the habits needed to grow more competent in the field, and I loved them so much that I’m going to start applying every one of them today.
 
 ---
 
