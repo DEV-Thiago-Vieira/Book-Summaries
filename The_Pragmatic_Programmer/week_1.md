@@ -122,17 +122,17 @@ This is by far my favorite part of the book. The author lays out the habits need
 
 ---
 
-## 📅 Day 6 — _Title Goes Here_
+## 📅 Day 6 — _Be cetic_
 
-**Time:** X minutes
+**Time:** ~10 minutes
 
 ### Description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in mi pretium, eleifend est sed, egestas orci. Nam cursus arcu ac dictum ultricies. Cras nec venenatis orci. Aenean ex mauris, interdum ut leo eu, rutrum condimentum elit. Curabitur consectetur lobortis dolor, sit amet ultricies nibh dapibus molestie.
+Today’s section focused on practicing critical thinking before you receive any information. The author recommends asking “**why**” at least four times before accepting something as true, and also reflecting on the origins of things.
 
 ### Reflections
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in mi pretium, eleifend est sed, egestas orci. Nam cursus arcu ac dictum ultricies. Cras nec venenatis orci. Aenean ex mauris, interdum ut leo eu, rutrum condimentum elit. Curabitur consectetur lobortis dolor, sit amet ultricies nibh dapibus molestie.
+That’s very interesting. Critical thinking is essentially the skill of asking yourself the right questions. I should practice it more in my free time. I just feel that the first part is a bit too dense to apply all at once; it’s not really casual reading.
 
 ---
 
