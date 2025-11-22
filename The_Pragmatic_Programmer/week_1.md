@@ -136,17 +136,17 @@ That’s very interesting. Critical thinking is essentially the skill of asking 
 
 ---
 
-## 📅 Day 7 — _Title Goes Here_
+## 📅 Day 7 — _Short on time_
 
-**Time:** X minutes
+**Time:** 5 minutes
 
 ### Description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in mi pretium, eleifend est sed, egestas orci. Nam cursus arcu ac dictum ultricies. Cras nec venenatis orci. Aenean ex mauris, interdum ut leo eu, rutrum condimentum elit. Curabitur consectetur lobortis dolor, sit amet ultricies nibh dapibus molestie.
+Communication was the topic today. I haven’t read much yet, but the author draws analogies between communication and a programming language, another essential tool you need to master. It doesn’t matter how well you work if you can’t communicate effectively. I’ll expand on this topic next week.
 
 ### Reflections
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in mi pretium, eleifend est sed, egestas orci. Nam cursus arcu ac dictum ultricies. Cras nec venenatis orci. Aenean ex mauris, interdum ut leo eu, rutrum condimentum elit. Curabitur consectetur lobortis dolor, sit amet ultricies nibh dapibus molestie.
+My reading time today was a bit shorter than usual. That tells me my routine is facing some issues, and I need to address them.
 
 ---
 
@@ -159,5 +159,6 @@ A short summary of what stood out this week.
 # 📂 Navigation
 
 - [Back to main summary](summary.md)
+- [Next week](week_2.md)
 
 ---
