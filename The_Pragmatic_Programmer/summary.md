@@ -38,7 +38,7 @@ Its emphasis on craftsmanship, autonomy, and practical problem-solving aligns wi
 As new weeks are added, they will be linked here.
 
 * [Week 1](week_1.md)
-* Week 2 (coming soon)
+* [Week 2](week_2.md)
 * Week 3 (coming soon)
 * Week 4 (coming soon)
 
