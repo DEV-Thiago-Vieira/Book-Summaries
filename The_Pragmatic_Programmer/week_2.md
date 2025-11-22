@@ -22,7 +22,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec elit eros, iaculi
 
 # 📂 Navigation
 
+- [Previous week](week_1.md)
 - [Back to main summary](summary.md)
-- [Next week](week_2.md)
+- [Next week](week_3.md)
 
 ---
